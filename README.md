@@ -1,6 +1,4 @@
-# WorkFlowVacationApi
-
-Projeto exemplo em ASP.NET Core (.NET 7) para gerir pedidos de férias com verificação de sobreposição.
+# VacationApi
 
 ## Requisitos
 - .NET 7 SDK
